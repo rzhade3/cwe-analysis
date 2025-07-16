@@ -1,3 +1,5 @@
-venv/
+.venv/
 github-reviewed/
 unreviewed/
+.DS_Store
+.env
